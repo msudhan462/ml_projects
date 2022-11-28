@@ -1,0 +1,18 @@
+https://www.tensorflow.org/guide/keras/rnn
+    LSTM
+    Bidirectional LSTM
+    GRU
+
+Useful URLs
+-----------
+https://www.tensorflow.org/text/tutorials/text_classification_rnn
+
+
+
+
+Use of Layers
+=============
+https://techvidvan.com/tutorials/keras-layers/
+https://keras.io/api/layers/
+
+
